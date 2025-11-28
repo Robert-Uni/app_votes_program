@@ -48,3 +48,8 @@ CREATE TABLE vote (
 <img width="1907" height="1014" alt="image" src="https://github.com/user-attachments/assets/966173ae-bc6c-4a45-bdb1-51453c2144be" />
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/5be7f49b-7332-4031-b9a0-13c503984cce" />
 
+
+Grafica
+
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/76488d8a-57f3-4592-bd3a-661c7b1b2841" />
+
