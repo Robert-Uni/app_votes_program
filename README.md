@@ -44,7 +44,10 @@ CREATE TABLE vote (
     FOREIGN KEY(id_voter) REFERENCES voter(id_voter)
 );
 
-#Dependencias 
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/b073ee44-268d-450f-8a66-5b26d1cff5b4" />
+
+
+#Dependencias pip install
 
 Flask
 flask-mysqldb
@@ -57,10 +60,11 @@ django
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/5be7f49b-7332-4031-b9a0-13c503984cce" />
 
 
-Grafica
+#Grafica
 
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/76488d8a-57f3-4592-bd3a-661c7b1b2841" />
 <img width="1610" height="954" alt="image" src="https://github.com/user-attachments/assets/83f486a8-9641-48e9-85f2-53f74a9c8b72" />
+<img width="1663" height="958" alt="image" src="https://github.com/user-attachments/assets/afdc4be7-eca2-4531-8cca-e4b0f184c24e" />
 
 
 
