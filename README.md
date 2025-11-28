@@ -60,6 +60,7 @@ django
 Grafica
 
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/76488d8a-57f3-4592-bd3a-661c7b1b2841" />
-<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/42069963-9dd3-4960-ae59-90a73fd1cbd9" />
+<img width="1610" height="954" alt="image" src="https://github.com/user-attachments/assets/83f486a8-9641-48e9-85f2-53f74a9c8b72" />
+
 
 
