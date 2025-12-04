@@ -60,7 +60,15 @@ def post_votes():
             INSERT INTO vote (id_voter, id_candidate)
             VALUES (%s, %s)
         """
+
         cursor.execute(sql, (id_voter, id_candidate))
+
+        
+        u = """UPDATE candidate 
+            SET votes = votes + 1
+            WHERE id_candidate = %s;
+        """
+        cursor.execute(u, (id_candidate,))
 
         r = """
             UPDATE voter
